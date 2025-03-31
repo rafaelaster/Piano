@@ -2,7 +2,7 @@
 A small arduino piano playing some notes using a piezo buzzer and buttons.
 
 ## Components
-->Arduino Uno
+->Arduino Uno r3
 
 ->Piezo buzzer
 
